@@ -1,0 +1,18 @@
+{
+    "greetings": {
+      "kannada": ["ನಮಸ್ಕಾರ", "ಹಲೋ", "ಹೇಯ್"],
+      "english": ["Hello", "Hi", "Hey"]
+    },
+    "farewells": {
+      "kannada": ["ಹೇಗಿದ್ದೀರಾ", "ಬೈ", "ಸ್ವಾಗತ"],
+      "english": ["Goodbye", "Bye", "See you"]
+    },
+
+    
+
+    "default": {
+      "kannada": ["ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ", "ಕ್ಷಮಿಸಿ, ನನಗೆ ತಿಳಿತಾ ಇಲ್ಲ", "ನನ್ನ ಮನಸ್ಸಿನಲ್ಲಿ ಇಲ್ಲ"],
+      "english": ["I don't understand", "Sorry, I don't know", "Not in my mind"]
+    }
+  }
+  
